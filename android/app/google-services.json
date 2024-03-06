@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178280329634",
+    "project_id": "pratham-enterprises",
+    "storage_bucket": "pratham-enterprises.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178280329634:android:4a66af5821a98b218c82fb",
+        "android_client_info": {
+          "package_name": "pratham.enterprises.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0n46avYX04dlM5c2hoS78yRr06hWVp9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
